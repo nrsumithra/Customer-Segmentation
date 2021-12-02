@@ -1,0 +1,3 @@
+# Customer-Segmentation
+Customer buying capacity
+https://www.researchgate.net/publication/330506538_Customer_Classification_and_Market_Basket_Analysis_Using_K-Means_Clustering_and_Association_Rules_Evidence_from_Distribution_Big_Data_of_Korean_Retailing_Company
